@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keisuke Takahashi | Takahashi Group</title>
+    <link>http://takahashigroup.github.io/author/keisuke-takahashi/</link>
+      <atom:link href="http://takahashigroup.github.io/author/keisuke-takahashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keisuke Takahashi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://takahashigroup.github.io/author/keisuke-takahashi/avatar_huc3bc845341ee6b96c10d5cefa9b7200e_133341_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Keisuke Takahashi</title>
+      <link>http://takahashigroup.github.io/author/keisuke-takahashi/</link>
+    </image>
+    
+  </channel>
+</rss>

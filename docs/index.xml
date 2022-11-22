@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takahashi Group</title>
+    <link>http://takahashigroup.github.io/</link>
+      <atom:link href="http://takahashigroup.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takahashi Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Takahashi Group</title>
+      <link>http://takahashigroup.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Our Group Principles</title>
+      <link>http://takahashigroup.github.io/principle/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/principle/</guid>
+      <description>&lt;p&gt;Takahashi Group conducts research while adhering to these principles.&lt;/p&gt;
+&lt;h3&gt;Shared value with the community&lt;/h3&gt;
+We believe that the information and knowledge we come across should also be shared with others and the community at large.
+&lt;h3&gt;Open Source&lt;/h3&gt;
+We believe in open source code for transparency of our work. 
+We hope people learn from codes and share the knowledge and skills with others.
+&lt;br&gt;&lt;br&gt;
+Takahashi Group primarily develops code that fall under GPL or MIT licenses. You can read more about these licences &lt;a href=&#34;https://www.gnu.org/licenses/licenses.html&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://opensource.org/licenses/MIT&#34;&gt;here&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;
+The official operating system used within Takahashi Group is Linux Mint.
+&lt;h3&gt;Open Data&lt;/h3&gt;
+Anyone should be able to access scientific data.
+&lt;h3&gt;DIY &amp; Building from Scratch&lt;/h3&gt;
+We at Takahashi Group build our servers and experimental equipment from scratch. 
+In doing so, it is possible to understand the physical aspects that affect our research, allowing us to maximize the power that such machines are able to offer.
+&lt;h3&gt;Learning from Failure&lt;/h3&gt;
+Science is all about failure. We report failures and all results honestly. Failed results are key towards success in science.
+&lt;h3&gt;Open for Collaboration&lt;/h3&gt;
+We welcome collaborations with others. Please contact me &lt;b&gt;(keisuke.takahashi[at]sci.hokudai.ac.jp)&lt;/b&gt; if you are interested collaborating with us.
+</description>
+    </item>
+    
+    <item>
+      <title>Our Research</title>
+      <link>http://takahashigroup.github.io/research/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/research/</guid>
+      <description>&lt;p&gt;Takahashi Group focuses on the design of materials, catalysts, and chemical reactions in a combination of experiments, theory, computations, and data science.
+To do this, we focus on research in four different areas: &lt;b&gt;Database Construction&lt;/b&gt;, &lt;b&gt;Experiment &amp;amp; Calculation&lt;/b&gt;, &lt;b&gt;Data Science&lt;/b&gt;, and &lt;b&gt;Software Development&lt;/b&gt;.&lt;/p&gt;
+&lt;img src=&#34;4informatics.png&#34;&gt;
+&lt;p&gt;&lt;u&gt;Database construction&lt;/u&gt; is carried out using data collected from high-throughput experiments and calculations as well as literature data.
+&lt;u&gt;Data science&lt;/u&gt; endeavors involve artificial intelligence, machine learning, visualization, or some combination of the aforementioned techniques.
+&lt;u&gt;Experiments and calculations&lt;/u&gt; are used to design and test various catalysts and reactions.
+&lt;u&gt;Software development&lt;/u&gt; includes developing the CADS platform, which is a materials informatics platform designed for sharing material data and providing on-site informatics tools that are accessible for experts and non-experts alike.&lt;/p&gt;
+&lt;h3&gt;By addressing these four areas, we are able to cover aspects of four types of informatics: Materials Informatics・Catalyst Informatics・ Measurement Informatics・Process Informatics&lt;/h3&gt;
+&lt;br&gt;
+&lt;h1&gt;Current Areas of Research&lt;/h1&gt;
+&lt;p&gt;Current research topics fall within the following areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Materials Informatics&lt;/li&gt;
+&lt;li&gt;Catalysts Informatics&lt;/li&gt;
+&lt;li&gt;Measurement Informatics &amp;amp; Signal Processing&lt;/li&gt;
+&lt;li&gt;Atomic Clusters &amp;amp; Cluster Assembled Materials&lt;/li&gt;
+&lt;li&gt;Heterogeneous Catalysts &amp;amp; Energy Materials&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;Materials Informatics&lt;/b&gt;&lt;/h2&gt;
+Materials informatics is the field where data science and materials science are integrated. We implement various data science techniques including machine learning, multi-dimensional visualization, and statistics towards designing materials.
+&lt;img src=&#34;1.PNG&#34;&gt;
+&lt;h2&gt;&lt;b&gt;Catalysts Informatics&lt;/b&gt;&lt;/h2&gt;
+Materials informatics is applied in catalysis where data science is implemented for seeking catalysts as well as optimizing the experimental process conditions during the reactions. For further details concerning this work, please visit the Catalysts Informatics project page. http://catalystinfo.eng.hokudai.ac.jp/index-e.html
+&lt;img src=&#34;2.PNG&#34;&gt;
+&lt;h2&gt;&lt;b&gt;Measurement Informatics &amp; Signal Processing&lt;/b&gt;&lt;/h2&gt;
+Materials Informatics is also applied in the field of measurements. In particular, spectra gained from XAFS, Raman, and EELS are intensively analyzed using data science where algorithms for decomposing such complex peaks are also investigated.
+&lt;img src=&#34;3.PNG&#34;&gt;
+&lt;h2&gt;&lt;b&gt;Atomic Clusters &amp; Cluster-Assembled Materials&lt;/b&gt;&lt;/h2&gt;
+Atomic clusters consist of few to hundreds of atoms. Because of the high surface to volume ratio, properties of clusters are different from their bulk and nanoparticle counterparts. We treat those small clusters as building blocks for designing further complex and unique crystals.
+&lt;img src=&#34;4.PNG&#34;&gt;
+&lt;h2&gt;&lt;b&gt;Heterogeneous Catalysts &amp; Energy Materials&lt;/b&gt;&lt;/h2&gt;
+By combining experiment, theory, computation, and data science, we are designing unique and novel Heterogeneous Catalysts and Energy Materials. We design two dimensional materials; zeolites; oxide surfaces for COx and NOx; and CH4 activation. For energy materials, we are designing high performence two dimensional materials and perovskite materials for gas storage as well as photovoltaic cell applications.
+&lt;img src=&#34;5.PNG&#34;&gt;
+&lt;h1&gt;Interested in joining?&lt;/h1&gt;
+Please contact me &lt;b&gt;(keisuke.takahashi[at]sci.hokudai.ac.jp)&lt;/b&gt; if you are interested in working on the above research.
+I have several suggestions for Masters, PhD, and Post-Doc.
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Takahashi Group Homepage</title>
+      <link>http://takahashigroup.github.io/post/22-11-17-lab-introduction/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/post/22-11-17-lab-introduction/</guid>
+      <description>&lt;p&gt;Welcome to the Takahashi Group homepage!&lt;/p&gt;
+&lt;p&gt;Welcome to the Takahashi Group (情報化学研究室)!
+We are a research group based out of the Department of Chemistry at Hokkaido University.
+Takahashi Group focuses on the design of materials, catalysts, and chemical reactions in a combination of experiments, theory, computations, and data science.
+We focus on research in four different areas: &lt;b&gt;Database Construction&lt;/b&gt;, &lt;b&gt;Experiment &amp;amp; Calculation&lt;/b&gt;, &lt;b&gt;Data Science&lt;/b&gt;, and &lt;b&gt;Software Development&lt;/b&gt;.
+In doing so, our research helps develop aspects of four types of informatics: &lt;b&gt;Materials Informatics&lt;/b&gt;・&lt;b&gt;Catalyst Informatics&lt;/b&gt;・ &lt;b&gt;Measurement Informatics&lt;/b&gt;・&lt;b&gt;Process Informatics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;You can find us here:
+&lt;br&gt;&lt;br&gt;
+〒060-0810&lt;br&gt;
+札幌市北区北１０条西８丁目&lt;br&gt;
+北海道大学大学院 理学研究院化学部門 理学部7号館510号室&lt;br&gt;
+&lt;br&gt;
+Hokkaido University, Faculty of Science,  Department of Chemistry,&lt;br&gt;
+7th building, Room 7-510, Kita 10, Nishi 8, Kita-ku,&lt;br&gt;
+Sapporo, 060-0810, Japan.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian-Optimization-Based Improvement of Cu-CHA Catalysts for Direct Partial Oxidation of CH4</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2022-bayesian/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2022-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data in Materials and Catalysts Informatics</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2022-data/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2022-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Catalyst Descriptors for Machine Learning in Oxidative Coupling of Methane</title>
+      <link>http://takahashigroup.github.io/publication/ishioka-2022-designing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ishioka-2022-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing transformer oil immersion cooling servers for machine learning and first principle calculations</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2022-designing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2022-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing two-dimensional dodecagonal boron nitride</title>
+      <link>http://takahashigroup.github.io/publication/suzuki-2022-designing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/suzuki-2022-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput screening and literature data-driven machine learning-assisted investigation of multi-component La 2 O 3-based catalysts for the oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nishimura-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nishimura-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrogen adsorption studies of TiFe surfaces via 3-d transition metal substitution</title>
+      <link>http://takahashigroup.github.io/publication/kumar-2022-hydrogen/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/kumar-2022-hydrogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Aided Catalyst Modification in Oxidative Coupling of Methane via Manganese Promoter</title>
+      <link>http://takahashigroup.github.io/publication/nishimura-2022-machine/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nishimura-2022-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships among the Catalytic Performance, Redox Activity, and Structure of Cu-CHA Catalysts for the Direct Oxidation of Methane to Methanol Investigated Using In Situ XAFS and UV--Vis Spectroscopies</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2022-relationships/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2022-relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Oxidation of Methane to Formaldehyde over a Silica-Supported Cobalt Single-Atom Catalyst</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2022-selective/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2022-selective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Heterogeneous Catalysts in Catalyst Informatics to Bridge Experiment and High-Throughput Calculation</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2022-synthesis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2022-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rise of Catalysts Informatics</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2022-rise/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2022-rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalysis Gene Expression Profiling: Sequencing and Designing Catalysts</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2021-catalysis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2021-catalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalytic direct oxidation of methane to methanol by redox of copper mordenite</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2021-catalytic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2021-catalytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalytic oxidation of methane to methanol over Cu-CHA with molecular oxygen</title>
+      <link>http://takahashigroup.github.io/publication/hirayama-2021-catalytic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/hirayama-2021-catalytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing catalyst knowledge networks from catalyst big data in oxidative coupling of methane for designing catalysts</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2021-constructing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2021-constructing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science assisted investigation of catalytically active copper hydrate in zeolites for direct oxidation of methane to methanol using H2O2</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2021-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2021-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct design of active catalysts for low temperature oxidative coupling of methane via machine learning and data mining</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2021-direct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Design of Catalysts in Oxidative Coupling of Methane via High-Throughput Experiment and Deep Learning</title>
+      <link>http://takahashigroup.github.io/publication/sugiyama-2021-direct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/sugiyama-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction of catalyst design heuristics from random catalyst dataset and their utilization in catalyst development for oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors to influence low-temperature performance of supported Mn--Na2WO4 in oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nguyen-2021-factors/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nguyen-2021-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning catalyst design based on bias-free data set for oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nguyen-2021-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nguyen-2021-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining hydroformylation in complex reaction network via graph theory</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2021-mining/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2021-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick approach for optimization of monodisperse microsphere synthesis with a knowledge sharing strategy powered by machine learning</title>
+      <link>http://takahashigroup.github.io/publication/zhang-2021-quick/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/zhang-2021-quick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing catalytic and processing space in methane oxidation reaction via multioutput machine learning</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2021-representing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2021-representing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsc. li/chemical-science</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2021-rsc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2021-rsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling gas-phase oxidative coupling of methane via data analysis</title>
+      <link>http://takahashigroup.github.io/publication/ishioka-2021-unveiling/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ishioka-2021-unveiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>マテリアルズ・インフォマティクスの概要とその具体例</title>
+      <link>http://takahashigroup.github.io/publication/%E5%AE%AE%E9%87%8C%E4%B8%80%E6%97%97-2021-%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B9/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/%E5%AE%AE%E9%87%8C%E4%B8%80%E6%97%97-2021-%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalyst Acquisition by Data Science (CADS): a web-based catalyst informatics platform for discovering catalysts</title>
+      <link>http://takahashigroup.github.io/publication/fujima-2020-catalyst/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/fujima-2020-catalyst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling electronic structure of single-layered $$$$$backslash$hbox $$HfX$$$$ _ $$3$$ $$ HfX 3 ($$$backslash$hbox $$X= S$$ $$ X= S, Se) trichalcogenides through systematic Zr doping</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2020-controlling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2020-controlling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cover Feature: Revisiting Machine Learning Predictions for Oxidative Coupling of Methane (OCM) based on Literature Data (ChemCatChem 23/2020)</title>
+      <link>http://takahashigroup.github.io/publication/nishimura-2020-cover/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nishimura-2020-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven identification of the reaction network in oxidative coupling of the methane reaction via experimental data</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2020-data/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2020-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First-Principles Design of Cu12shellFecore Core--Shell Clusters Assembled with K3O into Hexameric Rings: Implications for Gas-Storage Materials</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2020-first/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2020-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional classification of catalysts in oxidative coupling of methane through machine learning and high-throughput data</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2020-multidimensional/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2020-multidimensional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outstanding Reviewers for Physical Chemistry Chemical Physics in 2019</title>
+      <link>http://takahashigroup.github.io/publication/bochenkova-2020-outstanding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/bochenkova-2020-outstanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing the Methane Oxidation Reaction via Linking First-Principles Calculations and Experiment with Graph Theory</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2020-representing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2020-representing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting machine learning predictions for oxidative coupling of methane (OCM) based on literature data</title>
+      <link>http://takahashigroup.github.io/publication/nishimura-2020-revisiting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nishimura-2020-revisiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rising Sun Envelope Method: An Automatic and Accurate Peak Location Technique for XANES Measurements</title>
+      <link>http://takahashigroup.github.io/publication/monteiro-2020-rising/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/monteiro-2020-rising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition of wide-band gap semiconductor h-BN (BN)/P heterostructure via single-atom-embedding</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2020-transition/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2020-transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning the hydrogen storage properties of TiFe clusters via Zr substitution</title>
+      <link>http://takahashigroup.github.io/publication/kumar-2020-tuning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/kumar-2020-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>固体触媒を用いたメタン酸化カップリング反応の反応条件探索への機械学習の導入</title>
+      <link>http://takahashigroup.github.io/publication/%E5%A4%A7%E5%B1%B1%E9%A0%86%E4%B9%9F-2020-%E5%9B%BA%E4%BD%93%E8%A7%A6%E5%AA%92%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A1%E3%82%BF%E3%83%B3%E9%85%B8%E5%8C%96%E3%82%AB%E3%83%83%E3%83%95%E3%83%AA%E3%83%B3%E3%82%AF%E5%8F%8D%E5%BF%9C%E3%81%AE%E5%8F%8D%E5%BF%9C%E6%9D%A1%E4%BB%B6%E6%8E%A2%E7%B4%A2%E3%81%B8%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%B0%8E%E5%85%A5/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/%E5%A4%A7%E5%B1%B1%E9%A0%86%E4%B9%9F-2020-%E5%9B%BA%E4%BD%93%E8%A7%A6%E5%AA%92%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A1%E3%82%BF%E3%83%B3%E9%85%B8%E5%8C%96%E3%82%AB%E3%83%83%E3%83%95%E3%83%AA%E3%83%B3%E3%82%AF%E5%8F%8D%E5%BF%9C%E3%81%AE%E5%8F%8D%E5%BF%9C%E6%9D%A1%E4%BB%B6%E6%8E%A2%E7%B4%A2%E3%81%B8%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%B0%8E%E5%85%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic oxidation threshold recognition of XAFS data using supervised machine learning</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2019-automatic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2019-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating machine learning-driven material recipes based on crystal structure</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2019-creating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2019-creating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data driven determination in growth of silver from clusters to nanoparticles and bulk</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2019-data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2019-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data driven determination of reaction conditions in oxidative coupling of methane via machine learning</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2019-data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2019-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput experimentation and catalyst informatics for oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nguyen-2019-high/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nguyen-2019-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The rise of catalyst informatics: towards catalyst genomics</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2019-rise/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2019-rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing scientists’ cognitive representation of materials data through the application of ontology</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2019-visualizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2019-visualizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating the discovery of hidden two-dimensional magnets using machine learning and first principle calculations</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2018-accelerating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2018-accelerating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aryl fluoride functionalized graphene oxides for excellent room temperature ammonia sensitivity/selectivity</title>
+      <link>http://takahashigroup.github.io/publication/khurshid-2018-aryl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/khurshid-2018-aryl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Committee machine that votes for similarity between materials</title>
+      <link>http://takahashigroup.github.io/publication/nguyen-2018-committee/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nguyen-2018-committee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing a tunable magnet using cluster-assembled iron</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-designing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic structure of octagonal boron nitride nanotubes</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-electronic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-electronic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front Cover: Unveiling Hidden Catalysts for the Oxidative Coupling of Methane based on Combining Machine Learning with Literature Data (ChemCatChem 15/2018)</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-front/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-front/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functionalized Single-Atom-Embedded Bilayer Graphene and Hexagonal Boron Nitride</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-functionalized/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-functionalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outstanding Reviewers for Physical Chemistry Chemical Physics in 2017</title>
+      <link>http://takahashigroup.github.io/publication/bernasconi-2018-outstanding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/bernasconi-2018-outstanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid estimation of activation energy in heterogeneous catalytic reactions via machine learning</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-rapid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redesigning the materials and catalysts database construction process using ontologies</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-redesigning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-redesigning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing the multi hydrogen bonding state within iron doped amorphous carbon</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2018-revealing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2018-revealing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for hidden perovskite materials for photovoltaic systems by combining data science and first principle calculations</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-searching/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-searching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning the Electronic Structure of an Aluminum Phosphide Nanotube through Configuration of the Lattice Geometry</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-tuning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering periodicity and hidden trends responsible for predicting the magnetic moment of body centered cubic crystal</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-uncovering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-uncovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling hidden catalysts for the oxidative coupling of methane based on combining machine learning with literature data</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2018-unveiling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2018-unveiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descriptors for predicting the lattice constant of body centered cubic crystal</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2017-descriptors/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2017-descriptors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Mg7 cluster-assembled two dimensional crystal</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2017-designing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2017-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic structure of boron based single and multi-layer two dimensional materials</title>
+      <link>http://takahashigroup.github.io/publication/miyazato-2017-electronic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/miyazato-2017-electronic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of descriptors in predicting the dissolution energy of embedded oxides and the bulk modulus of oxide-embedded iron</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2017-role/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2017-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural stability and electronic properties of an octagonal allotrope of two dimensional boron nitride</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2017-structural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2017-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural, Electronic, and Transport Properties of Hybrid SrTiO3-Graphene and Carbon Nanoribbon Interfaces</title>
+      <link>http://takahashigroup.github.io/publication/baran-2017-structural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/baran-2017-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Two-Dimensional Superatomic Honeycomb Structures. Evaluation of [Ge9 (Si (SiMe3)) 3]- as Source of Ge9--Cluster Building Blocks for Extended Materials</title>
+      <link>http://takahashigroup.github.io/publication/munoz-2017-toward/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/munoz-2017-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling descriptors for predicting the bulk modulus of amorphous carbon</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2017-unveiling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2017-unveiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Need for Exploratory Visual Analytics in Big Data Research and for Open Science</title>
+      <link>http://takahashigroup.github.io/publication/tanaka-2016-need/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/tanaka-2016-need/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing square two-dimensional gold and platinum</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-designing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced hydrogen desorption properties of LiAlH 4 by doping lithium metatitanate</title>
+      <link>http://takahashigroup.github.io/publication/zhang-2016-enhanced/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/zhang-2016-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphene decorated with Fe nanoclusters for improving the hydrogen sorption kinetics of MgH 2--experimental and theoretical evidence</title>
+      <link>http://takahashigroup.github.io/publication/hudson-2016-graphene/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/hudson-2016-graphene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrophobic and antioxidant effects in In, Sn, and Sb based two dimensional materials</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-hydrophobic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-hydrophobic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material synthesis and design from first principle calculations and machine learning</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-material/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materials informatics: a journey towards material design and synthesis</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-materials/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of the dopant activity of chemical compounds against ammonia borane with key descriptors: electronegativity and crystal structures</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-prediction/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactivity of Two-Dimensional Au9, Pt9, and Au18Pt18 against Common Molecules</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-reactivity/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-reactivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing the multibonding state between hydrogen and graphene-supported Ti clusters</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-revealing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-revealing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reversible hydrogen uptake by BN and BC3 monolayers functionalized with small Fe clusters: a route to effective energy storage</title>
+      <link>http://takahashigroup.github.io/publication/hussain-2016-reversible/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/hussain-2016-reversible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective growth of noble gases at metal/oxide interface</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2016-selective/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2016-selective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependence of constituent elements of AB5 type metal hydrides on hydrogenation degradation by CO2 poisoning</title>
+      <link>http://takahashigroup.github.io/publication/hanada-2015-dependence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/hanada-2015-dependence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iron oxide cluster induced barrier-free conversion of nitric oxide to ammonia</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2015-iron/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2015-iron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low temperature pollutant trapping and dissociation over two-dimensional tin</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2015-low/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2015-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Information- Low temperature pollutant trapping and dissociation over two-dimensional tin</title>
+      <link>http://takahashigroup.github.io/publication/takahashisupporting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashisupporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of point defects on diffusion pathway within $α$-Fe</title>
+      <link>http://takahashigroup.github.io/publication/sakuraya-2015-effect/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/sakuraya-2015-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>原子クラスターが切り開く金属の未知の特性とその応用</title>
+      <link>http://takahashigroup.github.io/publication/%E9%AB%99%E6%A9%8B%E5%95%93%E4%BB%8B-2015-%E5%8E%9F%E5%AD%90%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%8B%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E9%87%91%E5%B1%9E%E3%81%AE%E6%9C%AA%E7%9F%A5%E3%81%AE%E7%89%B9%E6%80%A7%E3%81%A8%E3%81%9D%E3%81%AE%E5%BF%9C%E7%94%A8/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/%E9%AB%99%E6%A9%8B%E5%95%93%E4%BB%8B-2015-%E5%8E%9F%E5%AD%90%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%8B%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E9%87%91%E5%B1%9E%E3%81%AE%E6%9C%AA%E7%9F%A5%E3%81%AE%E7%89%B9%E6%80%A7%E3%81%A8%E3%81%9D%E3%81%AE%E5%BF%9C%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing the hydrogen storage capacity of TiFe by utilizing clusters</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2014-enhancing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2014-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low temperature hydrogenation of iron nanoparticles on graphene</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2014-low/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2014-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical properties of $α$-Fe upon the introduction of H, He, C, and N</title>
+      <link>http://takahashigroup.github.io/publication/sakuraya-2014-physical/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/sakuraya-2014-physical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The growth of Fe clusters over graphene/Cu (111)</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2014-growth/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2014-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical Modeling of Atomic Clusters Across the Hydrogen Discipline</title>
+      <link>http://takahashigroup.github.io/publication/%E9%AB%99%E6%A9%8B%E5%95%93%E4%BB%8B-2014-theoretical/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/%E9%AB%99%E6%A9%8B%E5%95%93%E4%BB%8B-2014-theoretical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemisorption of hydrogen on Fe clusters through hybrid bonding mechanisms</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2013-chemisorption/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2013-chemisorption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H2 dissociation over NbO: The first step toward hydrogenation of Mg</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2013-h-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2013-h-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strain field of interstitial hydrogen atom in body-centered cubic iron and its effect on hydrogen-dislocation interaction</title>
+      <link>http://takahashigroup.github.io/publication/wang-2013-strain/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/wang-2013-strain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The catalytic effect of Nb, NbO and Nb2O5 with different surface planes on dehydrogenation in MgH2: Density functional theory study</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2013-catalytic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2013-catalytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The stabilization of Fe, Ru, and Os clusters upon hydrogenation</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2013-stabilization/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2013-stabilization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structural and electronic properties of small osmium clusters (2--14): A density functional theory study</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2013-structural/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2013-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical Modeling of Atomic Clusters Across the Hydrogen</title>
+      <link>http://takahashigroup.github.io/publication/%E9%AB%99%E6%A9%8B-2013-theoretical/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/%E9%AB%99%E6%A9%8B-2013-theoretical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Transition of Mg during Hydrogenation of Mg--Nb2O5 Evaporated Composites</title>
+      <link>http://takahashigroup.github.io/publication/ma-2012-phase/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ma-2012-phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global optimization scheme for bimetallic nanoparticles</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2011-global/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2011-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://takahashigroup.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://takahashigroup.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://takahashigroup.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

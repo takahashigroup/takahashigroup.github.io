@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalaivani Seenivasan | Takahashi Group</title>
+    <link>http://takahashigroup.github.io/author/kalaivani-seenivasan/</link>
+      <atom:link href="http://takahashigroup.github.io/author/kalaivani-seenivasan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kalaivani Seenivasan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Kalaivani Seenivasan</title>
+      <link>http://takahashigroup.github.io/author/kalaivani-seenivasan/</link>
+    </image>
+    
+    <item>
+      <title>Extraction of catalyst design heuristics from random catalyst dataset and their utilization in catalyst development for oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors to influence low-temperature performance of supported Mn--Na2WO4 in oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nguyen-2021-factors/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nguyen-2021-factors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

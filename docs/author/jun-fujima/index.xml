@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Fujima | Takahashi Group</title>
+    <link>http://takahashigroup.github.io/author/jun-fujima/</link>
+      <atom:link href="http://takahashigroup.github.io/author/jun-fujima/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Fujima</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jun Fujima</title>
+      <link>http://takahashigroup.github.io/author/jun-fujima/</link>
+    </image>
+    
+    <item>
+      <title>High-throughput screening and literature data-driven machine learning-assisted investigation of multi-component La 2 O 3-based catalysts for the oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nishimura-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nishimura-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rise of Catalysts Informatics</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2022-rise/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2022-rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalysis Gene Expression Profiling: Sequencing and Designing Catalysts</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2021-catalysis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2021-catalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct design of active catalysts for low temperature oxidative coupling of methane via machine learning and data mining</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2021-direct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalyst Acquisition by Data Science (CADS): a web-based catalyst informatics platform for discovering catalysts</title>
+      <link>http://takahashigroup.github.io/publication/fujima-2020-catalyst/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/fujima-2020-catalyst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput experimentation and catalyst informatics for oxidative coupling of methane</title>
+      <link>http://takahashigroup.github.io/publication/nguyen-2019-high/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/nguyen-2019-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The rise of catalyst informatics: towards catalyst genomics</title>
+      <link>http://takahashigroup.github.io/publication/takahashi-2019-rise/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/takahashi-2019-rise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

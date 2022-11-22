@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazuo Kato | Takahashi Group</title>
+    <link>http://takahashigroup.github.io/author/kazuo-kato/</link>
+      <atom:link href="http://takahashigroup.github.io/author/kazuo-kato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kazuo Kato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Kazuo Kato</title>
+      <link>http://takahashigroup.github.io/author/kazuo-kato/</link>
+    </image>
+    
+    <item>
+      <title>Relationships among the Catalytic Performance, Redox Activity, and Structure of Cu-CHA Catalysts for the Direct Oxidation of Methane to Methanol Investigated Using In Situ XAFS and UV--Vis Spectroscopies</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2022-relationships/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2022-relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalytic direct oxidation of methane to methanol by redox of copper mordenite</title>
+      <link>http://takahashigroup.github.io/publication/ohyama-2021-catalytic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/ohyama-2021-catalytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalytic oxidation of methane to methanol over Cu-CHA with molecular oxygen</title>
+      <link>http://takahashigroup.github.io/publication/hirayama-2021-catalytic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://takahashigroup.github.io/publication/hirayama-2021-catalytic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

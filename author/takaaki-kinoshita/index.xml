@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takaaki Kinoshita | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/takaaki-kinoshita/</link>
+      <atom:link href="https://takahashigroup.github.io/author/takaaki-kinoshita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takaaki Kinoshita</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Takaaki Kinoshita</title>
+      <link>https://takahashigroup.github.io/author/takaaki-kinoshita/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis of Heterogeneous Catalysts in Catalyst Informatics to Bridge Experiment and High-Throughput Calculation</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2022-synthesis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2022-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct design of active catalysts for low temperature oxidative coupling of methane via machine learning and data mining</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2021-direct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cover Feature: Revisiting Machine Learning Predictions for Oxidative Coupling of Methane (OCM) based on Literature Data (ChemCatChem 23/2020)</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2020-cover/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2020-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting machine learning predictions for oxidative coupling of methane (OCM) based on literature data</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2020-revisiting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2020-revisiting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

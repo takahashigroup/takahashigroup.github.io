@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 高橋啓介 | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/%E9%AB%98%E6%A9%8B%E5%95%93%E4%BB%8B/</link>
+      <atom:link href="https://takahashigroup.github.io/author/%E9%AB%98%E6%A9%8B%E5%95%93%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description> 高橋啓介</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title> 高橋啓介</title>
+      <link>https://takahashigroup.github.io/author/%E9%AB%98%E6%A9%8B%E5%95%93%E4%BB%8B/</link>
+    </image>
+    
+    <item>
+      <title>マテリアルズ・インフォマティクスの概要とその具体例</title>
+      <link>https://takahashigroup.github.io/publication/%E5%AE%AE%E9%87%8C%E4%B8%80%E6%97%97-2021-%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B9/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/%E5%AE%AE%E9%87%8C%E4%B8%80%E6%97%97-2021-%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuai Wang | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/shuai-wang/</link>
+      <atom:link href="https://takahashigroup.github.io/author/shuai-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuai Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Shuai Wang</title>
+      <link>https://takahashigroup.github.io/author/shuai-wang/</link>
+    </image>
+    
+    <item>
+      <title>Physical properties of $α$-Fe upon the introduction of H, He, C, and N</title>
+      <link>https://takahashigroup.github.io/publication/sakuraya-2014-physical/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/sakuraya-2014-physical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strain field of interstitial hydrogen atom in body-centered cubic iron and its effect on hydrogen-dislocation interaction</title>
+      <link>https://takahashigroup.github.io/publication/wang-2013-strain/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/wang-2013-strain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Transition of Mg during Hydrogenation of Mg--Nb2O5 Evaporated Composites</title>
+      <link>https://takahashigroup.github.io/publication/ma-2012-phase/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ma-2012-phase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

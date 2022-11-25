@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/post/</link>
+      <atom:link href="https://takahashigroup.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://takahashigroup.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to the Takahashi Group Homepage</title>
+      <link>https://takahashigroup.github.io/post/22-11-17-lab-introduction/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/post/22-11-17-lab-introduction/</guid>
+      <description>&lt;p&gt;Welcome to the Takahashi Group homepage!&lt;/p&gt;
+&lt;p&gt;Welcome to the Takahashi Group (情報化学研究室)!
+We are a research group based out of the Department of Chemistry at Hokkaido University.
+Takahashi Group focuses on the design of materials, catalysts, and chemical reactions in a combination of experiments, theory, computations, and data science.
+We focus on research in four different areas: &lt;b&gt;Database Construction&lt;/b&gt;, &lt;b&gt;Experiment &amp;amp; Calculation&lt;/b&gt;, &lt;b&gt;Data Science&lt;/b&gt;, and &lt;b&gt;Software Development&lt;/b&gt;.
+In doing so, our research helps develop aspects of four types of informatics: &lt;b&gt;Materials Informatics&lt;/b&gt;・&lt;b&gt;Catalyst Informatics&lt;/b&gt;・ &lt;b&gt;Measurement Informatics&lt;/b&gt;・&lt;b&gt;Process Informatics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;You can find us here:
+&lt;br&gt;&lt;br&gt;
+〒060-0810&lt;br&gt;
+札幌市北区北１０条西８丁目&lt;br&gt;
+北海道大学大学院 理学研究院化学部門 理学部7号館510号室&lt;br&gt;
+&lt;br&gt;
+Hokkaido University, Faculty of Science,  Department of Chemistry,&lt;br&gt;
+7th building, Room 7-510, Kita 10, Nishi 8, Kita-ku,&lt;br&gt;
+Sapporo, 060-0810, Japan.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xucheng Zhang | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/xucheng-zhang/</link>
+      <atom:link href="https://takahashigroup.github.io/author/xucheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xucheng Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xucheng Zhang</title>
+      <link>https://takahashigroup.github.io/author/xucheng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Quick approach for optimization of monodisperse microsphere synthesis with a knowledge sharing strategy powered by machine learning</title>
+      <link>https://takahashigroup.github.io/publication/zhang-2021-quick/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/zhang-2021-quick/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen C Parker | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/stephen-c-parker/</link>
+      <atom:link href="https://takahashigroup.github.io/author/stephen-c-parker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen C Parker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Stephen C Parker</title>
+      <link>https://takahashigroup.github.io/author/stephen-c-parker/</link>
+    </image>
+    
+    <item>
+      <title>Structural, Electronic, and Transport Properties of Hybrid SrTiO3-Graphene and Carbon Nanoribbon Interfaces</title>
+      <link>https://takahashigroup.github.io/publication/baran-2017-structural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/baran-2017-structural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

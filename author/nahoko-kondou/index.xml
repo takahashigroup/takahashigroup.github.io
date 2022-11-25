@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nahoko Kondou | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/nahoko-kondou/</link>
+      <atom:link href="https://takahashigroup.github.io/author/nahoko-kondou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nahoko Kondou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Nahoko Kondou</title>
+      <link>https://takahashigroup.github.io/author/nahoko-kondou/</link>
+    </image>
+    
+    <item>
+      <title>Catalytic direct oxidation of methane to methanol by redox of copper mordenite</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2021-catalytic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2021-catalytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science assisted investigation of catalytically active copper hydrate in zeolites for direct oxidation of methane to methanol using H2O2</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2021-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2021-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,0 @@
-baseURL = 'https://takahashigroup.github.io/'
-languageCode = 'en-us'
-# theme = 'starter-hugo-research-group'
-title = 'Takahashi Group (情報化学研究室)'
-publishDir= "docs"
-canonifyurls = true

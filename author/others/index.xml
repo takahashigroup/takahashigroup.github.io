@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/others/</link>
+      <atom:link href="https://takahashigroup.github.io/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title> others</title>
+      <link>https://takahashigroup.github.io/author/others/</link>
+    </image>
+    
+    <item>
+      <title>Selective Oxidation of Methane to Formaldehyde over a Silica-Supported Cobalt Single-Atom Catalyst</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2022-selective/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2022-selective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct design of active catalysts for low temperature oxidative coupling of methane via machine learning and data mining</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2021-direct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outstanding Reviewers for Physical Chemistry Chemical Physics in 2019</title>
+      <link>https://takahashigroup.github.io/publication/bochenkova-2020-outstanding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/bochenkova-2020-outstanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput experimentation and catalyst informatics for oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nguyen-2019-high/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nguyen-2019-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The rise of catalyst informatics: towards catalyst genomics</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2019-rise/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2019-rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependence of constituent elements of AB5 type metal hydrides on hydrogenation degradation by CO2 poisoning</title>
+      <link>https://takahashigroup.github.io/publication/hanada-2015-dependence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/hanada-2015-dependence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

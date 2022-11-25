@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nobuko Hanada | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/nobuko-hanada/</link>
+      <atom:link href="https://takahashigroup.github.io/author/nobuko-hanada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nobuko Hanada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Nobuko Hanada</title>
+      <link>https://takahashigroup.github.io/author/nobuko-hanada/</link>
+    </image>
+    
+    <item>
+      <title>Dependence of constituent elements of AB5 type metal hydrides on hydrogenation degradation by CO2 poisoning</title>
+      <link>https://takahashigroup.github.io/publication/hanada-2015-dependence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/hanada-2015-dependence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

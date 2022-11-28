@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seema Awasthi | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/authors/seema-awasthi/</link>
+      <atom:link href="https://takahashigroup.github.io/authors/seema-awasthi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seema Awasthi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Seema Awasthi</title>
+      <link>https://takahashigroup.github.io/authors/seema-awasthi/</link>
+    </image>
+    
+    <item>
+      <title>Graphene decorated with Fe nanoclusters for improving the hydrogen sorption kinetics of MgH 2--experimental and theoretical evidence</title>
+      <link>https://takahashigroup.github.io/publication/hudson-2016-graphene/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/hudson-2016-graphene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

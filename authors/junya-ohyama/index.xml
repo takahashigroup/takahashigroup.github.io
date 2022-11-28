@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junya Ohyama | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/authors/junya-ohyama/</link>
+      <atom:link href="https://takahashigroup.github.io/authors/junya-ohyama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junya Ohyama</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Junya Ohyama</title>
+      <link>https://takahashigroup.github.io/authors/junya-ohyama/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian-Optimization-Based Improvement of Cu-CHA Catalysts for Direct Partial Oxidation of CH4</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2022-bayesian/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2022-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput screening and literature data-driven machine learning-assisted investigation of multi-component La 2 O 3-based catalysts for the oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Aided Catalyst Modification in Oxidative Coupling of Methane via Manganese Promoter</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2022-machine/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2022-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships among the Catalytic Performance, Redox Activity, and Structure of Cu-CHA Catalysts for the Direct Oxidation of Methane to Methanol Investigated Using In Situ XAFS and UV--Vis Spectroscopies</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2022-relationships/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2022-relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Oxidation of Methane to Formaldehyde over a Silica-Supported Cobalt Single-Atom Catalyst</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2022-selective/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2022-selective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Heterogeneous Catalysts in Catalyst Informatics to Bridge Experiment and High-Throughput Calculation</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2022-synthesis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2022-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rise of Catalysts Informatics</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2022-rise/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2022-rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalytic direct oxidation of methane to methanol by redox of copper mordenite</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2021-catalytic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2021-catalytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalytic oxidation of methane to methanol over Cu-CHA with molecular oxygen</title>
+      <link>https://takahashigroup.github.io/publication/hirayama-2021-catalytic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/hirayama-2021-catalytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science assisted investigation of catalytically active copper hydrate in zeolites for direct oxidation of methane to methanol using H2O2</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2021-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2021-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct design of active catalysts for low temperature oxidative coupling of methane via machine learning and data mining</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2021-direct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cover Feature: Revisiting Machine Learning Predictions for Oxidative Coupling of Methane (OCM) based on Literature Data (ChemCatChem 23/2020)</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2020-cover/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2020-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven identification of the reaction network in oxidative coupling of the methane reaction via experimental data</title>
+      <link>https://takahashigroup.github.io/publication/miyazato-2020-data/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/miyazato-2020-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing the Methane Oxidation Reaction via Linking First-Principles Calculations and Experiment with Graph Theory</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2020-representing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2020-representing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting machine learning predictions for oxidative coupling of methane (OCM) based on literature data</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2020-revisiting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2020-revisiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data driven determination of reaction conditions in oxidative coupling of methane via machine learning</title>
+      <link>https://takahashigroup.github.io/publication/ohyama-2019-data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ohyama-2019-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput experimentation and catalyst informatics for oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nguyen-2019-high/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nguyen-2019-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front Cover: Unveiling Hidden Catalysts for the Oxidative Coupling of Methane based on Combining Machine Learning with Literature Data (ChemCatChem 15/2018)</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2018-front/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2018-front/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling hidden catalysts for the oxidative coupling of methane based on combining machine learning with literature data</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2018-unveiling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2018-unveiling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 大山順也 | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/author/%E5%A4%A7%E5%B1%B1%E9%A0%86%E4%B9%9F/</link>
+      <atom:link href="https://takahashigroup.github.io/author/%E5%A4%A7%E5%B1%B1%E9%A0%86%E4%B9%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description> 大山順也</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title> 大山順也</title>
+      <link>https://takahashigroup.github.io/author/%E5%A4%A7%E5%B1%B1%E9%A0%86%E4%B9%9F/</link>
+    </image>
+    
+    <item>
+      <title>固体触媒を用いたメタン酸化カップリング反応の反応条件探索への機械学習の導入</title>
+      <link>https://takahashigroup.github.io/publication/%E5%A4%A7%E5%B1%B1%E9%A0%86%E4%B9%9F-2020-%E5%9B%BA%E4%BD%93%E8%A7%A6%E5%AA%92%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A1%E3%82%BF%E3%83%B3%E9%85%B8%E5%8C%96%E3%82%AB%E3%83%83%E3%83%95%E3%83%AA%E3%83%B3%E3%82%AF%E5%8F%8D%E5%BF%9C%E3%81%AE%E5%8F%8D%E5%BF%9C%E6%9D%A1%E4%BB%B6%E6%8E%A2%E7%B4%A2%E3%81%B8%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%B0%8E%E5%85%A5/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/%E5%A4%A7%E5%B1%B1%E9%A0%86%E4%B9%9F-2020-%E5%9B%BA%E4%BD%93%E8%A7%A6%E5%AA%92%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%A1%E3%82%BF%E3%83%B3%E9%85%B8%E5%8C%96%E3%82%AB%E3%83%83%E3%83%95%E3%83%AA%E3%83%B3%E3%82%AF%E5%8F%8D%E5%BF%9C%E3%81%AE%E5%8F%8D%E5%BF%9C%E6%9D%A1%E4%BB%B6%E6%8E%A2%E7%B4%A2%E3%81%B8%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%B0%8E%E5%85%A5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

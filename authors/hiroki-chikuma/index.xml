@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroki Chikuma | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/authors/hiroki-chikuma/</link>
+      <atom:link href="https://takahashigroup.github.io/authors/hiroki-chikuma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroki Chikuma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hiroki Chikuma</title>
+      <link>https://takahashigroup.github.io/authors/hiroki-chikuma/</link>
+    </image>
+    
+    <item>
+      <title>Extraction of catalyst design heuristics from random catalyst dataset and their utilization in catalyst development for oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toshiaki Taniike | Takahashi Group (情報化学研究室)</title>
+    <link>https://takahashigroup.github.io/authors/toshiaki-taniike/</link>
+      <atom:link href="https://takahashigroup.github.io/authors/toshiaki-taniike/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toshiaki Taniike</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Toshiaki Taniike</title>
+      <link>https://takahashigroup.github.io/authors/toshiaki-taniike/</link>
+    </image>
+    
+    <item>
+      <title>The value of negative results in data-driven catalysis research</title>
+      <link>https://takahashigroup.github.io/publication/taniike-2023-negative/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/taniike-2023-negative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalyst Informatics: Paradigm Shift towards Data-Driven Catalyst Design</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2023-catalysts/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2023-catalysts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Catalyst Descriptors for Machine Learning in Oxidative Coupling of Methane</title>
+      <link>https://takahashigroup.github.io/publication/ishioka-2022-designing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ishioka-2022-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput screening and literature data-driven machine learning-assisted investigation of multi-component La 2 O 3-based catalysts for the oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2022-high/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Aided Catalyst Modification in Oxidative Coupling of Methane via Manganese Promoter</title>
+      <link>https://takahashigroup.github.io/publication/nishimura-2022-machine/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nishimura-2022-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalysis Gene Expression Profiling: Sequencing and Designing Catalysts</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2021-catalysis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2021-catalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing catalyst knowledge networks from catalyst big data in oxidative coupling of methane for designing catalysts</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2021-constructing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2021-constructing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Design of Catalysts in Oxidative Coupling of Methane via High-Throughput Experiment and Deep Learning</title>
+      <link>https://takahashigroup.github.io/publication/sugiyama-2021-direct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/sugiyama-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction of catalyst design heuristics from random catalyst dataset and their utilization in catalyst development for oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nakanowatari-2021-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors to influence low-temperature performance of supported Mn--Na2WO4 in oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nguyen-2021-factors/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nguyen-2021-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning catalyst design based on bias-free data set for oxidative coupling of methane</title>
+      <link>https://takahashigroup.github.io/publication/nguyen-2021-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/nguyen-2021-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing catalytic and processing space in methane oxidation reaction via multioutput machine learning</title>
+      <link>https://takahashigroup.github.io/publication/miyazato-2021-representing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/miyazato-2021-representing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsc. li/chemical-science</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2021-rsc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2021-rsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling gas-phase oxidative coupling of methane via data analysis</title>
+      <link>https://takahashigroup.github.io/publication/ishioka-2021-unveiling/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/ishioka-2021-unveiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional classification of catalysts in oxidative coupling of methane through machine learning and high-throughput data</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2020-multidimensional/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2020-multidimensional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

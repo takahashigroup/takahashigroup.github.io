@@ -5,12 +5,20 @@
     <link>https://takahashigroup.github.io/authors/takeaki-uno/</link>
       <atom:link href="https://takahashigroup.github.io/authors/takeaki-uno/index.xml" rel="self" type="application/rss+xml" />
     <description>Takeaki Uno</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Takeaki Uno</title>
       <link>https://takahashigroup.github.io/authors/takeaki-uno/</link>
     </image>
+    
+    <item>
+      <title>Catalyst Informatics: Paradigm Shift towards Data-Driven Catalyst Design</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2023-catalysts/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2023-catalysts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Direct design of active catalysts for low temperature oxidative coupling of methane via machine learning and data mining</title>

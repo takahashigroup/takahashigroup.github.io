@@ -5,12 +5,20 @@
     <link>https://takahashigroup.github.io/authors/jun-fujima/</link>
       <atom:link href="https://takahashigroup.github.io/authors/jun-fujima/index.xml" rel="self" type="application/rss+xml" />
     <description>Jun Fujima</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://takahashigroup.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Jun Fujima</title>
       <link>https://takahashigroup.github.io/authors/jun-fujima/</link>
     </image>
+    
+    <item>
+      <title>Catalyst Informatics: Paradigm Shift towards Data-Driven Catalyst Design</title>
+      <link>https://takahashigroup.github.io/publication/takahashi-2023-catalysts/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://takahashigroup.github.io/publication/takahashi-2023-catalysts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-throughput screening and literature data-driven machine learning-assisted investigation of multi-component La 2 O 3-based catalysts for the oxidative coupling of methane</title>
